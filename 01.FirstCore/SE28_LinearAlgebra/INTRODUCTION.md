@@ -40,7 +40,7 @@ This repository in my 4th Dimension journey is aimed to share the knowledge acqu
 
 * ### Book Resources:
     1. [Strang, G. (2016). Introduction to Linear Algebra, Fifth Edition. Wellesley-Cambridge Press](http://math.mit.edu/~gs/linearalgebra/)
-    2. [Free Software Foundation, Inc. (2008). A First Course in Linear Algebra.](http://linear.ups.edu/html/GFDL.html)
+    2. [Free Software Foundation, Inc. (2008). A First Course in Linear Algebra. Free Software Foundation, Inc.](http://linear.ups.edu/html/GFDL.html)
     3. [Edwards, C. H., Penney, D.E. (2014). Differential Equations and Liner Algebra, Third Edition. Pearson Education Limited](https://www.pearson.com/uk/educators/higher-education-educators/program/Edwards-Differential-Equations-and-Linear-Algebra-Pearson-New-International-Edition-3rd-Edition/PGM1084755.html)
 <br>
 <br>
