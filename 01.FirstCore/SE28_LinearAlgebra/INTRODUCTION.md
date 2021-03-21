@@ -1,6 +1,6 @@
 # **Linear Algebra**
 
-This repository in my 4th Dimension journey is aimed to share the knowledge acquired in Linear Algebra from the first semester in spring 2021.
+This repository in my 4th Dimension project is aimed to share the knowledge acquired in Linear Algebra from the first semester in spring 2021.
 <br>
 <br>
 
