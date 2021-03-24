@@ -3,7 +3,7 @@
 Linear Algebra is the field of study in mathematics that is concerning linear equations such as:
 
 ---
-# " $a_1x_1 + a_2x_2 + ... + a_nx_n = b$ "
+# $a_1x_1 + a_2x_2 + ... + a_nx_n = b$
 
 The subject of Linear Algebra centers in solving the systems of (algebraic) linear equations. The term "Linear equations" is commonly used to "linearize" other mathematical objects by reducing or expanding the object into space with linear properties.
 <br>
