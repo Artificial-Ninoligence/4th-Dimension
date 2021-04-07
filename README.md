@@ -17,9 +17,9 @@ This journey will consists of the following:
 
 ## **Vision and Mission**
 
-My goal is to feed my curiosity through knowledge and explore all possibilities of applying it in real life projects to create good products that hopefully will be useful for many. Moreover, I feel like knowledge is useless if we can't share it. This is the main reason why I start this project.
+My goal is to feed my curiosity through knowledge and explore all possibilities of applying it in real life projects to create good products that hopefully will be useful for many. Moreover, I feel like knowledge is useless if we can't share it. This is the main reason why I started this project.
 
-Please consider that the learning steps in my documentation might be the best possible path for me, but not for you. Always do your own research before following anything from this project!.
+Please consider that the learning steps in my documentation might be the best possible path for me, but not for you. Always do your own research before following anything from this project!
 
 I am always up for discussing any point from my journey that might need an improvement or correction. If you want to discuss something, please don't hesitate to mail me at: nino.lindenberg@code.berlin.
 
